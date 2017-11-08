@@ -27,7 +27,6 @@ This is a Thin pizza with Mozzarella Cheese, Uncured Pepperoni, Green Peppers
 ### Desired output
 
 ```
-example:
 This is a Thin pizza with Mozzarella Cheese, Uncured Pepperoni, Green Peppers, Black Olives
 ```
 
