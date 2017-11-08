@@ -15,8 +15,8 @@ Add the new ingredient, olives, to the pizza builder.
 
 ### UML
 
-![alt text](http://yuml.me/61ef4b7b.png)
-[edit](http://yuml.me/edit/61ef4b7b)
+![alt text](http://yuml.me/1a5a87ca.png)
+[edit](http://yuml.me/edit/1a5a87ca)
 
 ### Previous output
 
